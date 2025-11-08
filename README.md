@@ -1,2 +1,2 @@
-# controls
+# Controls
 - Esc - close window
